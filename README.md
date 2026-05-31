@@ -1,8 +1,5 @@
 # Mascot-Management-ESIC-Automation-Ui-Path-Studio
 A lean UiPath bot for ESIC portal registration. It runs sequentially in a single browser session without heavy retry scopes.  Smart Validation: Uses Check App State to spot existing PANs.  Excel Logging: Marks duplicates as "Already Registered" and skips ahead.  File Sync: Downloads and saves ID cards directly into employee folders.
-# ESIC Employee Registration Automation Bot
-
-A lean, high-efficiency UiPath automation bot built with Modern Design activities to streamline employee registration on the ESIC portal. Optimized for small batches, this workflow runs sequentially within a single browser session—completely eliminating the overhead of complex retry frameworks and repetitive logins.
 
 ## Visual Workflow Architecture
 
